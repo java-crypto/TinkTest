@@ -1,2 +1,5 @@
 # TinkTest
-Testroutines for Google Tink
+
+Inhalt: Beispiele für Google Tink
+
+Content: Sourcecode for Google Tink examples
