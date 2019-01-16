@@ -9,6 +9,7 @@ package StreamingAead;
 // environment: microsoft windows 10 build 1809 x64, 8 gb ram, ssd
 // source: https://github.com/java-crypto/tink/EncryptionGcmJreTinkBc.java
 // author: michael fehr, http://javacrypto.bplaced.net
+// * do not use * this version has errors !
 
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;
